@@ -90,6 +90,8 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
+We observed that when all components were connected properly, the LED glowed after switching on the circuit. Changing the resistor’s value affected the brightness — higher resistance made it dimmer, and lower resistance made it brighter. This simple simulation helped us understand how current flows and how resistors control it.
+
 
 
 ```
