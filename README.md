@@ -1,6 +1,12 @@
 # workshop-week-2
 
 ## **Online Circuit Simulation**
+1.2.	Learning Reflection
+
+Write a brief note about the results of the Series Battery Combination simulation.
+We observed that when four 1.5v battery is connected in series connection, the multimeter showed overall voltage of 6v.
+Hence, when the batteries are connected in series, the overall voltage across the circuit is the sum of the voltage of the batteries.
+
 
 ``Go to the Tinkercad Web App (https://www.tinkercad.com/), login and simulate the circuit as given requirements.``
 
