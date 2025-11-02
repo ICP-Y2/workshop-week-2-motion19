@@ -3,9 +3,6 @@
 ## **Online Circuit Simulation**
 1.2.	Learning Reflection
 
-Write a brief note about the results of the Series Battery Combination simulation.
-We observed that when four 1.5v battery is connected in series connection, the multimeter showed overall voltage of 6v.
-Hence, when the batteries are connected in series, the overall voltage across the circuit is the sum of the voltage of the batteries.
 
 
 ``Go to the Tinkercad Web App (https://www.tinkercad.com/), login and simulate the circuit as given requirements.``
@@ -35,6 +32,9 @@ Figure 2: Series Battery Combination Simulation Circuit
 1.2.	Learning Reflection
 
 Write a brief note about the results of the Series Battery Combination simulation.
+We observed that when four 1.5v battery is connected in series connection, the multimeter showed overall voltage of 6v.
+Hence, when the batteries are connected in series, the overall voltage across the circuit is the sum of the voltage of the batteries.
+
 
 
 ```
@@ -62,6 +62,7 @@ Figure 4: Parallel Battery Combination Simulation Circui
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
+We observed that when four 1.5 V batteries were connected in **parallel connection**, the multimeter showed an overall voltage of **1.5 V**. Hence, when the batteries are connected in parallel, the overall voltage across the circuit remains the **same as the voltage of a single battery**, while the **current capacity increases**, allowing the batteries to supply power for a longer duration.
 
 
 ```
